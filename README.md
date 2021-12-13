@@ -22,5 +22,5 @@
   
 <div> 
   
-  <a href = "mailto:saulormaia@hotmail.com"> <img src = "https://img.shields.io/badge/-hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank"> 
-  <a href="https://www.linkedin.com/in/saulo-maia-2930841a4" target="_blank"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> 
+  <a href = "mailto:saulormaia@hotmail.com"> <img src = "https://img.shields.io/badge/-saulormaia@hotmail.com-%23333?style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank"> 
+  <a href="https://www.linkedin.com/in/saulo-maia-2930841a4" target="_blank"> <img src = "https://img.shields.io/badge/Saulo Maia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> 
