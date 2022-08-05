@@ -2,8 +2,7 @@
 ### Tudo bem com você ? 
 ### Me chamo SauloMaia01 
 
-- Hoje eu não trabalho na area de TI, mas estou estudando para ser um programador
-- Hoje eu estudo: Developer Web
+- Sou desenvolvedor Front-End com foco em React.js
 - Pronome: Ele / Dele
 ##
 <div align = "center">
